@@ -4,8 +4,8 @@
 __metadata:
   version: 6
 
-"root-workspace-0b6124@workspace:.":
+"node-octokit-stream-disturbed@workspace:.":
   version: 0.0.0-use.local
-  resolution: "root-workspace-0b6124@workspace:."
+  resolution: "node-octokit-stream-disturbed@workspace:."
   languageName: unknown
   linkType: soft

@@ -1,3 +1,26 @@
 {
+  "name": "node-octokit-stream-disturbed",
+  "description": "Reproduction for octokit Error \"Response body object should not be disturbed or locked\"",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/trivikr/node-octokit-stream-disturbed.git"
+  },
+  "keywords": [
+    "octokit",
+    "node",
+    "stream",
+    "disturbed"
+  ],
+  "author": "Kamat, Trivikram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trivikr/node-octokit-stream-disturbed/issues"
+  },
+  "homepage": "https://github.com/trivikr/node-octokit-stream-disturbed#readme",
   "packageManager": "yarn@3.6.0"
 }
