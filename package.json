@@ -2,9 +2,10 @@
   "name": "node-octokit-stream-disturbed",
   "description": "Reproduction for octokit Error \"Response body object should not be disturbed or locked\"",
   "version": "0.0.1",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "main": "run.js",
+  "type": "module",
+  "dependencies": {
+    "@octokit/rest": "19.0.7"
   },
   "repository": {
     "type": "git",
